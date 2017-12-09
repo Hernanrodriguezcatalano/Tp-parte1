@@ -1,0 +1,71 @@
+Acta de la Mesa 4580.txt 
+Senadores 
+Agrupacion politica             Numero de lista         Nombre del candidato    Cantidad de votos 
+CAM 		 	 	1 	 	 	ANDY	 	 	212
+CAM 			 	2 	 	 	BEN      	 	232 
+CAM 	 		 	3 	 	 	PEDRO 	 	 	365 
+UCR 	 	 		4 	 	 	GABRIEL 	 	598 
+UCR 	 	 		5 	 	 	JUAN 	 	 	487 
+UCR 	 	 		6 	 	 	ALAN	 	 	548 
+FRENTE				7 	 	 	ROBERTO 	 	615 
+FRENTE 	 	 		8 	 	 	JOSE 	 	 	598 
+FRENTE 	 	 		9 	 	 	ULISES 	 	 	678 
+COMPRO 		 	 	11 	 	 	CHICHO 	 	 	3654 
+COMPRO 		 	 	12	 	 	MARIO 	 	 	3165 
+COMPRO 	 		 	13 	 	 	LUIS 	 	 	621
+LIBRES				14	 	 	TITO		 	566 
+LIBRES 	 	 		15	 	 	EZE	 	 	465 
+LIBRES 	 	 		16 	 	 	JUAN 	 	 	4654 
+VICTO 		 	 	18 	 	 	NESTOR 	 	 	1654 
+VICTO 	 		 	17	 	 	CRISTI	 	 	1654 
+VICTO 	 	 		19 	 	 	HERNAN 	 	 	1087 
+1 	 	 		111 	 	 	FRANCO 	 	 	5654 
+1 	 	 		112 	 	 	NICO 	 	 	598 
+1 	 	 		113 	 	 	MAURO 	 	 	4654 
+PRO 	 	 		114 	 	 	HECTOR 	 	 	198 
+PRO 	 	 		115 	 	 	JADE	 	 	198 
+PRO 	 	 		116 	 	 	LENA	 	 	798 
+FREPASO 	 	 	117 	 	 	MARIA 	 	 	149 
+FREPASO 	 	 	118 	 	 	MARINA 	 	 	589
+FREPASO 	 	 	119 	 	 	JUANA 	 	 	5489
+PI 	 	 		120 	 	 	ARIEL 	 	 	145 
+PI 	 	 		121 	 	 	GONZALO 	 	165 
+PI 	 	 		122 	 	 	LUIS 	 	 	165 
+Votos en Blanco: 265
+Votos en impugnados: 543
+******************************************************************************************
+Diputados 
+Agrupacion politica             Numero de lista         Nombre del candidato    Cantidad de votos 
+PJ 	 	 		132 	 	 	JUA 	 	 	1654 
+PJ 	 	 		131 	 	 	ROBERTO 	 	445 
+PJ 	 	 		130 	 	 	LUIS 	 	 	165 
+CAM				129 	 	 	MAURI		 	365 
+CAM	 	 	 	128 	 	 	EUGENIA 	 	68 
+CAM	 	 	 	127 	 	 	JUANA 	 	 	1198 
+ARI 	 	 		126 	 	 	LIDIA 	 	 	4987 
+ARI 	 	 		125 	 	 	MAURO 	 	 	215 
+ARI 	 	 		124 	 	 	FRANCO 	 	 	5987
+PDC 	 	 		123 	 	 	HECTOR 	 	 	1498 
+PDC 	 	 		133 	 	 	JOSE 	 	 	5965 
+PDC 	 	 		134 	 	 	MARINA 	 	 	648 
+FE 	 	 		200 	 	 	ROBERTO 	 	59 
+FE 	 	 		135 	 	 	TITO 	 	 	5988 
+FE 	 	 		136 	 	 	LEANDRO 	 	787 
+PI 	 	 		137 	 	 	FER		 	6418 
+PI 	 	 		138 	 	 	LUCIANO 	 	684 
+PI 	 	 		139 	 	 	JACINTA 	 	54 
+LIBRES 	 	 		220 	 	 	MARIA 	 	 	18 
+LIBRES 	 	 		140 	 	 	JUAN.C		 	665 
+LIBRES 	 	 		141 	 	 	CHICHO 	 	 	688
+RIVER		 	 	142 	 	 	ENZO 	 	 	1084 
+RIVER	 	 	 	143 	 	 	LUCAS 	 	 	5874 
+RIVER	 	 	 	144 	 	 	MARCELO 	 	649 
+BOCA 	 	 		147 	 	 	DANIEL 	 	 	1498 
+BOCA 	 	 		148 	 	 	GUILLE	 	 	1489 
+BOCA 	 	 		149 	 	 	GUSTAVO 	 	3492 
+MST 	 	 		145 	 	 	GABY 	 	 	448 
+MST 	 	 		146 	 	 	JUAN 	 	 	565 
+MST 	 	 		151 	 	 	TITO 	 	 	3475 
+
+Votos en Blanco: 615
+Votos en impugnados: 4918 
